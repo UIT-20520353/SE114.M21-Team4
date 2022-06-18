@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Workspace/Android/PersonalBudgetingApp/app/src/main/res/drawable/boarder_black.xml" value="0.2105" />
+        <entry key="..\:/Workspace/Android/PersonalBudgetingApp/app/src/main/res/drawable/borders.xml" value="0.2105" />
+        <entry key="..\:/Workspace/Android/PersonalBudgetingApp/app/src/main/res/drawable/buttons.xml" value="0.2105" />
+        <entry key="..\:/Workspace/Android/PersonalBudgetingApp/app/src/main/res/drawable/ic_add.xml" value="0.2105" />
+        <entry key="..\:/Workspace/Android/PersonalBudgetingApp/app/src/main/res/drawable/ic_analytics.xml" value="0.2105" />
+        <entry key="..\:/Workspace/Android/PersonalBudgetingApp/app/src/main/res/drawable/ic_education.xml" value="0.2105" />
+        <entry key="..\:/Workspace/Android/PersonalBudgetingApp/app/src/main/res/drawable/ic_entertainment.xml" value="0.2105" />
+        <entry key="..\:/Workspace/Android/PersonalBudgetingApp/app/src/main/res/drawable/ic_food.xml" value="0.2105" />
+        <entry key="..\:/Workspace/Android/PersonalBudgetingApp/app/src/main/res/drawable/ic_health.xml" value="0.2105" />
+        <entry key="..\:/Workspace/Android/PersonalBudgetingApp/app/src/main/res/drawable/ic_history.xml" value="0.2105" />
+        <entry key="..\:/Workspace/Android/PersonalBudgetingApp/app/src/main/res/drawable/ic_house.xml" value="0.2105" />
+        <entry key="..\:/Workspace/Android/PersonalBudgetingApp/app/src/main/res/drawable/ic_other.xml" value="0.2105" />
+        <entry key="..\:/Workspace/Android/PersonalBudgetingApp/app/src/main/res/drawable/ic_person.xml" value="0.2105" />
+        <entry key="..\:/Workspace/Android/PersonalBudgetingApp/app/src/main/res/drawable/ic_personalcare.xml" value="0.2105" />
+        <entry key="..\:/Workspace/Android/PersonalBudgetingApp/app/src/main/res/drawable/ic_transport.xml" value="0.2105" />
+        <entry key="..\:/Workspace/Android/PersonalBudgetingApp/app/src/main/res/layout/activity_account.xml" value="0.25" />
+        <entry key="..\:/Workspace/Android/PersonalBudgetingApp/app/src/main/res/layout/activity_budget.xml" value="0.25" />
+        <entry key="..\:/Workspace/Android/PersonalBudgetingApp/app/src/main/res/layout/activity_choose_analytic.xml" value="0.25" />
+        <entry key="..\:/Workspace/Android/PersonalBudgetingApp/app/src/main/res/layout/activity_daily_analytics.xml" value="0.264" />
+        <entry key="..\:/Workspace/Android/PersonalBudgetingApp/app/src/main/res/layout/activity_history.xml" value="0.25" />
+        <entry key="..\:/Workspace/Android/PersonalBudgetingApp/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Workspace/Android/PersonalBudgetingApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Workspace/Android/PersonalBudgetingApp/app/src/main/res/layout/activity_monthly_analytics.xml" value="0.25" />
+        <entry key="..\:/Workspace/Android/PersonalBudgetingApp/app/src/main/res/layout/activity_registration.xml" value="0.25" />
+        <entry key="..\:/Workspace/Android/PersonalBudgetingApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Workspace/Android/PersonalBudgetingApp/app/src/main/res/layout/activity_today_spending.xml" value="0.25" />
+        <entry key="..\:/Workspace/Android/PersonalBudgetingApp/app/src/main/res/layout/activity_week_spending.xml" value="0.25" />
+        <entry key="..\:/Workspace/Android/PersonalBudgetingApp/app/src/main/res/layout/activity_weekly_analytics.xml" value="0.25" />
+        <entry key="..\:/Workspace/Android/PersonalBudgetingApp/app/src/main/res/layout/input_layout.xml" value="0.25" />
+        <entry key="..\:/Workspace/Android/PersonalBudgetingApp/app/src/main/res/layout/retrieve_layout.xml" value="0.25" />
+        <entry key="..\:/Workspace/Android/PersonalBudgetingApp/app/src/main/res/layout/update_layout.xml" value="0.25" />
+        <entry key="..\:/Workspace/Android/PersonalBudgetingApp/app/src/main/res/menu/menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
